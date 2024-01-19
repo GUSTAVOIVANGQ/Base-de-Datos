@@ -1,0 +1,31 @@
+--1.  Seleccionar el nombre de todos los tipos de aviones con más mas de 200 asientos
+--2.  Seleccionar el nombre de todos los tipos de aviones con más mas de 200 asientos, con la siguiente leyenda: "El avión" <tipo avión> "tiene una capacidad de " <num asientos> "asientos"
+--3.  Seleccionar el nombre, apellido paterno y apellido materno de todos los empleados de las aerolíneas
+--4.  Seleccionar el nombre, apellido paterno y apellido materno de todos los empleados de las aerolíneas concatenados en una sola columna con el alias nombre del empleado.
+--5.  Seleccionar el nombre, apellido paterno y apellido materno de todos los empleados de las aerolíneas con la siguiente leyenda "bienvenido, " <nombre completo de la persona> ", hoy es " <fecha actual>
+--6.  Seleccionar el nombre completo de todas las personas en la base de datos que cumplan años hoy y mostrarlo como "Felices " <edad> " años " <nombre completo> "!!!"
+--7.  mostrar la antigüedad en años de todos los aviones almacenados en la base de datos
+--8.  mostrar la fecha exacta del siguiente mantenimiento de los aviones tomando como referencia la fecha del último, ordenándolos por el que esté más próximo a vencer
+--9.  mostrar el tiempo en días que falta para el mantenimiento de los aviones tomando como referencia la fecha del último, ordenándolos por el que esté más próximo a vencer
+--10. mostrar el tiempo en días por el que se atrasó o adelantó el último mantenimiento de los aviones tomando como referencia la fecha de adquisición.
+--11. mostrar todos los vuelos y ordenarlos por los que tengan estén más próximos y tengan más lugares vacíos
+--12. mostrar los vuelos que tengan un precio por asiento mayor a 1000 pesos, ordenarlos de manera ascendente
+--13. Mostrar todos los empleados que no tengan jefe
+--14. mostrar el día de la semana en que le toca mantenimiento a cada uno de los aviones
+--15. Mostra las aerolíneas extranjeras , con el texto, la aerolínea <nombre> es extranjera
+--16. Selecciona la tabla de clientes ordenandola por la fecha de registro de manera descendente
+--17. Selecciona al cliente tipo Oro que tenga más antigûedad de registro
+--18. Selecciona todos los domicilios y ordenalos por código postal, colonia y calle
+--19. Selecciona todos los domicilios cuyo número de casa no sea numérico
+--20. Selecciona el sueldo diario de los empleados considerando que todos los meses son de 30 días, agregar el alias "sueldo diario" y ordenarlo de manera descendente
+--21. Realiza una consulta a los tipos de clientes que muestre el siguiente texto "al ser cliente " <tipo cliente> " tienes un descuento de " <porcentaje descuento>
+--22. selecciona los vuelos del mes de diciembre de 2014 que cuesten menos de 4000 pesos y ordenalos de forma ascendente en costo
+--23. selecciona los clientes tipo oro que tengan menos de 5 años de antigûedad
+--24. muestra una lista de todos los tipos de aviones ordenandolos de manera ascendente por el nombre del fabricante y descendente por la cantidad de asientos
+--25. selecciona los tipos de empleado de vuelo con la siguiente leyenda "el tipo de empleado " + <nombre del tipo> + " requiere estar en vuelo"
+--26. selecciona los vuelos que se realizaron esta última semana
+--27. selecciona los vuelos que se compraron durante el último mes
+--28. selecciona a las personas cuya longitud del telefono no sea exactamente igual a 8
+--29. Selecciona las compras con una antigûedad mayor a un año
+--30. selecciona el día de la semana en que saldrán todos los vuelos.
+

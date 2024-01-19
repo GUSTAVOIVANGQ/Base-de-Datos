@@ -1,0 +1,35 @@
+* Instrucciones, si en la base de datos no existen valores que devolver, insertar registro que cumplan con la condición, para ver la funcionalidad del SP. 
+
+1. Obtener todos los empleados que se dieron de alta entre una determinada fecha inicial y
+fecha final y que pertenecen a un determinada aerolinea 
+
+2. Crear un procedimiento que inserte un empleado y valide su previa existencia, si existe no lo inserte. 
+
+3. Crear un procemimiento que recupere el nombre de aerolínea, cantidad de empleados y 
+idEmpleado, id TipoEmpleado a partir del idAerolinea.
+
+4. Crear un procedimiento igual que el anterior, pero que recupera también las personas que
+trabajan en dicha aerolinea, pasandole como parámetro el nombre y apellido. 
+
+5. Crear un procedimiento para devolver sueldo, tipo de empleado y jefe pasándole el apellido.
+
+6. Crear un procedimiento igual al anterior, pero si no le pasamos ningún valor,
+mostrará los datos de todos los empleados, incluyendo su nombre, dirección, teléfono, etc.
+
+7. Crear un procedimiento para mostrar el sueldo, tipo de empleado y nombre de la aerolinea 
+de todos los empleados que contengan en su apellido el valor que le pasemos como
+parámetro. 
+
+8. Crear un procedimiento para mostrar las ventas de un rango de fechas, 
+indicando fecha compra, vendedor, aerolinea,idvuelo, número de boletos, total de compra , pasando
+como parámetro el rango de fechas.
+
+9. Crear un procedimiento para mostrar los datos completos de los 3 clientes que más han comprado en un determinado año, 
+pasando como parámetro el tipo de cliente y el año.*
+
+10. Crear un procedimiento para mostrar el total de comisión a cobrar por un empleado, de las ventas realizadas en un determinado mes,
+pasando como parámetro su IdEmpleado, el mes y año la de venta.* 
+
+11. Crear un procedimiento para mostrar, cuántos vuelos a realizado el "personal de vuelo" de una aerolinea en especifico, mostrar Aerolínea,nombre completo del
+personal, TipoEmpleado, número de vuelos. Pasando como parámetro el nombre de la Aerolínea. 
+
